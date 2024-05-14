@@ -1151,3 +1151,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.14-10.20.32:954][  1]LogChildActorComponent: Error: Found cycle in child actor component '/Engine/Transient.World_1:PersistentLevel.FB_Actor_C_0.FB_Actor'.  Not spawning Actor of class 'FB_Actor_C' to break.
 [2024.05.14-10.20.32:990][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.14-10.22.13:829][ 73]LogDerivedDataCache: C:/Users/090/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.193 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1332 files in 2132 folders with total size 42 MiB.
+[2024.05.14-10.26.29:352][473]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/FB_Light.FB_Light_C
+[2024.05.14-10.26.29:352][473]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/FB_Light.FB_Light_C
+[2024.05.14-10.26.29:355][473]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/FB_Light.FB_Light as actor: FB_Light_C /Game/FirstMap.FirstMap:PersistentLevel.FB_Light_C_0
+[2024.05.14-10.26.29:357][473]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/FB_Light.FB_Light as actor: FB_Light_C /Game/FirstMap.FirstMap:PersistentLevel.FB_Light_C_0
+[2024.05.14-10.26.29:361][473]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.14-10.26.30:880][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/FB_Light.FB_Light_C
+[2024.05.14-10.26.30:881][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/FB_Light.FB_Light_C
+[2024.05.14-10.26.30:904][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/FB_Light.FB_Light as actor: FB_Light_C /Game/FirstMap.FirstMap:PersistentLevel.FB_Light_C_UAID_18473D32F24E88F501_1204356815
+[2024.05.14-10.26.30:906][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/FB_Light.FB_Light as actor: FB_Light_C /Game/FirstMap.FirstMap:PersistentLevel.FB_Light_C_UAID_18473D32F24E88F501_1204356815
+[2024.05.14-10.26.30:956][548]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.14-10.26.40:773][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-10.26.40:855][838]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.006776 seconds
+[2024.05.14-10.26.40:857][838]LogSerialization: UsePackageTrailer: 'true'
+[2024.05.14-10.26.40:858][838]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstMap/5/0M/GYC494LNWDOFGKW0YFJH0Q
+[2024.05.14-10.26.40:858][838]LogSavePackage: Moving '../../../../../../Users/090/Documents/Unreal Projects/MyFirstProject/myfirstprojectue5/Saved/GYC494LNWDOFGKW0YFJH0Q884762A742A0EBEFB00A4A910E26AFCE.tmp' to '../../../../../../Users/090/Documents/Unreal Projects/MyFirstProject/myfirstprojectue5/Content/__ExternalActors__/FirstMap/5/0M/GYC494LNWDOFGKW0YFJH0Q.uasset'
+[2024.05.14-10.26.40:873][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms
+[2024.05.14-10.26.40:875][838]AssetCheck: New page: Asset Save: FB_Light_C_UAID_18473D32F24E88F501_1204356815
+[2024.05.14-10.26.40:876][838]LogContentValidation: Display: Validating /Game/Blueprints/FB_Light.FB_Light_C /Game/FirstMap.FirstMap:PersistentLevel.FB_Light_C_UAID_18473D32F24E88F501_1204356815
